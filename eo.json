@@ -283,10 +283,10 @@
         "World.Edit.AccessPatreon" : "Subtenantoj de Patreon",
         "World.Edit.AccessPublic" : "Iu ajn (publika)",
 
-        "Tools.AvatarCreator": "Avatar-Kreinto",
-        "Tools.FullBodyCalibrator": "Plena Korpa /Avatar-Kalibrilo",
+        "Tools.AvatarCreator": "Avatar-kreilo",
+        "Tools.FullBodyCalibrator": "Plenkorpa /Avatar-kalibrilo",
         "Tools.CameraStreaming": "Fotilo / Elsendfluo",
-        "Tools.CreateNewWorld": "Krei Novan Mondon",
+        "Tools.CreateNewWorld": "Krei novan mondon",
         "Tools.DepositNCR": "Deponejo NCR",
         "Tools.WithdrawNCR": "Retiri NCR",
         "Tools.Debug": "Elpurigi",
@@ -310,7 +310,7 @@
         "Options.Nameplates.Hide" : "Nomplatoj: Kaŝas ĉiujn nomplatojn",
 
         "Indicator.OnlineUsers" : "Enretaj uzantoj: {num_registered} (~{num_total})",
-        "Indicator.ServerStatus" : "<color=#fff>Servila stato:</color> {status, select, Good {Bona} Slow {Malrapida} Down {Malsupre} NoInternet {Neniu interreto}} ({response_ms} ms)",
+        "Indicator.ServerStatus" : "<color=#fff>Stato de servilo:</color> {status, select, Good {Bona} Slow {Malrapida} Down {Falinta} NoInternet {Sen retkonekto}} ({response_ms} ms)",
 
         "Indicator.Sync.AllSynced" : "Ĉiuj sinkronigitaj",
         "Indicator.Sync.SyncingItems" : "Sinkronigante {item_count,plural, one {# ero} other {# erojn}} <nobr>({item_percent} %)",
@@ -381,7 +381,7 @@
         "2FA.Header" : "2FA kontrolo",
         "2FA.Token" : "6-cifera ĵetono",
 
-        "Profile.Status.Online": "Rete",
+        "Profile.Status.Online": "Enrete",
         "Profile.Status.Away": "For",
         "Profile.Status.Busy": "Okupata",
         "Profile.Status.Invisible": "Nevidebla",
